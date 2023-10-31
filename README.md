@@ -1,5 +1,4 @@
-👋 Hi, I’m Cassandra
-I’m interested in software engineering. I’m currently learning javascript as a step forward. thank you very much.
+👋 Hi, my name is Cassandra and i’m interested in software engineering. I’m currently learning javascript.
 
 <!---
 xyzslim61/xyzslim61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
