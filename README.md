@@ -1,4 +1,4 @@
-👋 Hi, I’m @xyzslim61
+👋 Hi, I’m Cassandra
 I’m interested in software engineering. I’m currently learning javascript as a step forward. thank you very much.
 
 <!---
